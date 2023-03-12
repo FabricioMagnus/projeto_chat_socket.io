@@ -53,7 +53,7 @@ export default function Chat() {
         <input
           className="form__field"
           onChange={handleInputChange}
-          placeholder="Type a new message here"
+          placeholder="Escreva sua mensagem aqui..."
           type="text"
           value={message}
         />
